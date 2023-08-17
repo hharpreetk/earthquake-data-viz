@@ -2,7 +2,6 @@ from pathlib import Path
 import json
 
 import plotly.express as px
-import pandas as pd
 import numpy as np
 
 # Read data as a string and convert to a Python object.
